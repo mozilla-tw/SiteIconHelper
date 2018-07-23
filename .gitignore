@@ -1,3 +1,8 @@
+# Gradle
+.gradle
+/build/
+.idea/workspace.xml
+
 # Compiled class file
 *.class
 
